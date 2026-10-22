@@ -1,0 +1,6 @@
+{
+  "name": "Varicose Veins Clinic Management System",
+  "description": "Production-ready Varicose Veins Clinic Management System with CEAP assessment, duplex ultrasound charting, EVLA/sclerotherapy procedure management, billing in IQD, waiting queue, and bilingual English/Arabic RTL support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
